@@ -13,3 +13,7 @@ A chaque fois vous devez charger le fichier `index.php` et obtenir le meme resul
 ### ex05 - Bridge
 ### ex06 - Adapter
 ### ex07 - Observable
+### ex08 - Iterator
+### ex09 - Chain of responsibility
+### ex10 - Proxy
+### ex11 - MVC
